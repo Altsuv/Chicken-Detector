@@ -1,0 +1,15 @@
+path: C:/Users/Yusin/OneDrive/Documents/YOLO26_Proj/Chicken Detector/spicychickenpics
+train: train/images
+val: valid/images
+test: test/images
+
+nc: 1
+names: 
+  0: Chicken
+
+roboflow:
+  workspace: richbert0704-gmail-com
+  project: chicken-detection-szaiw-6sowk
+  version: 1
+  license: CC BY 4.0
+  url: https://app.roboflow.com/richbert0704-gmail-com/chicken-detection-szaiw-6sowk/1
