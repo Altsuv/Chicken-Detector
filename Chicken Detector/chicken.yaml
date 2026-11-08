@@ -1,4 +1,4 @@
-path: C:/Users/Yusin/OneDrive/Documents/YOLO26_Proj/Chicken Detector/spicychickenpics
+path: content/Chicken-Detector/Chicken Detector/spicychickenpics
 train: train/images
 val: valid/images
 test: test/images
